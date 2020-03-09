@@ -1,0 +1,13 @@
+body {
+  background: white;
+  transition: background 1.5s;
+  height: 100%;
+}
+
+html {
+  height: 100%;
+}
+
+#ghost {
+  visibility: hidden;
+}

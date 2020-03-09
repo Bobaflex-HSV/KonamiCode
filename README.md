@@ -1,2 +1,0 @@
-# KonamiCode
-Created with CodeSandbox
